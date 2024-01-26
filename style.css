@@ -48,7 +48,11 @@ body {
     justify-content: space-between;
 }
 
+<<<<<<< HEAD
 button {
+=======
+.addButton {
+>>>>>>> 4cb551a43779387043ce74dc6e89dbd9a5ca86b0
     background-color: whitesmoke;
     border: 0.5px solid lightgray;
     border-radius: 30px;
